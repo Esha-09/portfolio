@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +25,7 @@
             </nav>
            <div class = "header-text">
             <p>Btech Student</p>
-            <h1>HI, I am <span>Esha</span> Mahara</h1>
+            <h1>HI, We ara <span> Esha</span> Mahara<span> & Harshita</span><span> Mehta</span></h1>
            </div>
         </div>
 </div>
@@ -35,12 +34,12 @@
     <div class="container">
         <div class = "row">
             <div class = about-col-1>
-                <img src="user1.jpeg" alt="">
+                <img src="imeges/US.JPG.jpg" alt="">
             </div>
             <div class = about-col-2>
-                <h1 class="sub-title">About Me</h1>
-                <p>Hello there! MY name is Esha Mahara. I am doing my bachelors of technology form graophic era bhimtal.
-                    I have done my schooling form Beersheba senior secondary school haldwani.
+                <h1 class="sub-title">About US</h1>
+                <p>Hello there! We are Esha Mahara and Harshita Mehta. We are doing our bachelors of technology form graophic era bhimtal.
+                    
                 </p>
                 <div class = "tab-titles">
                     <p class = "tab-links active-link" onclick="opentab('Skills')">Skills</p>
@@ -63,8 +62,8 @@
                 </div>
                 <div class="tab-contents" id = "Education">
                     <ul>
-                        <li><span>karan</span><br>A good student</li>
-                        <li><span>karan</span><br>A good student</li>
+                        <li><span>Esha</span><br>A good student</li>
+                        <li><span>Harshita</span><br>A good student</li>
                         <li><span>Btech</span><br>A good student</li>
                     </ul>
                 </div>
@@ -88,7 +87,7 @@
                 <a href="#">Learn more</a>
             </div>
             <div>
-                <h2>karan</h2>
+                <h2>Esha</h2>
                 <p>kdjvnedjsvnsjvnoejfvnojnv vvj o v vrieo rno veovn eo</p>
                 <a href="#">Learn more</a>
             </div>
@@ -100,18 +99,18 @@
         <h1 class = "sub-title">Our Work</h1>
         <div class="work-list">
             <div class = work>
-                <img src="work1.jpeg" >
+                <img src="imeges/OURWORK.jpg" >
                 <div class = "layer">
-                    <h3>KARAN</h3>
-                    <p>This is karan </p>
+                    <h3>Esha</h3>
+                    <p>This is our work </p>
                     <a href="#"><i class="fa-solid fa-trophy"></i></a> 
                 </div>
             </div>
             <div class = work>
-                <img src="work1.jpeg" >
+                <img src="imeges/OUR WORK.JPG.jpg" >
             </div>
             <div class = work>
-                <img src="work1.jpeg" >
+                <img src="imeges/OUR WORK.jpg" >
             </div>
         </div>
             <a href="#" class = btn>See more</a>
@@ -122,9 +121,9 @@
         <h1 class = "row"></h1>
         <div class="row">
             <div class = contact-left>
-                <h1 class = sub-title> Contact Me</h1>
-                <p><i class="fa-regular fa-envelope"></i> karann.bhanwal@gmail.com</p>
-                <p><i class="fa-solid fa-phone"></i>7452009499</p>
+                <h1 class = sub-title> Contact us</h1>
+                <p><i class="fa-regular fa-envelope"></i> maharaesha@gmail.com</p>
+                <p><i class="fa-solid fa-phone"></i>6397289430</p>
                 <div class="social-icons">
                     <a href=""><i class="fa-brands fa-instagram"></i></a>
                     <a href=""><i class="fa-brands fa-x-twitter"></i></a>
@@ -142,7 +141,7 @@
             </div>
     </div>
     <div class="copyright">
-        <p><i class="fa-solid fa-heart"></i>copyright @karan</p>
+        <p><i class="fa-solid fa-heart"></i>copyright @esha</p>
     </div>
 </div>
 
@@ -172,5 +171,7 @@
     }
 </script>
 </body>
-</html>
-# portfolio
+</html>![US JPG](https://github.com/Esha-09/portfolio/assets/145591365/5eb2bd4e-e444-4656-9ec6-30bacc1240a9)
+![OURWORK](https://github.com/Esha-09/portfolio/assets/145591365/4406613d-418f-4313-8907-2badd1b171ea)
+![OUR WORK JPG](https://github.com/Esha-09/portfolio/assets/145591365/5339556e-8767-4c50-80af-68f227598917)
+![OUR WORK](https://github.com/Esha-09/portfolio/assets/145591365/200e568d-ace8-4e68-8f6e-5d04e0cf197b)
