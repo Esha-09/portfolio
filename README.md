@@ -25,7 +25,7 @@
             </nav>
            <div class = "header-text">
             <p>Btech Student</p>
-            <h1>HI, We ara <span> Esha</span> Mahara<span></h1>
+            <h1>HI, I am  <span> Esha</span> Mahara<span></h1>
            </div>
         </div>
 </div>
@@ -37,7 +37,7 @@
                 <img src="imeges/US.JPG.jpg" alt="">
             </div>
             <div class = about-col-2>
-                <h1 class="sub-title">About US</h1>
+                <h1 class="sub-title">About me</h1>
                 <p>Hello there! I am  Esha Mahara .  I am persuing Bachelors of technology form graophic era bhimtal.
                     
                 </p>
